@@ -1,61 +1,106 @@
-# Remote-Work-Impact-on-Employees-Mental-Health
-I conducted an in-depth analysis to assess the impact of remote work on employees’ mental health, utilizing historical survey data sourced from Kaggle. This analysis aimed to provide insights into employee demographics, industries, work modes, work hours, and mental health conditions, among others.
 
-![](https://github.com/Olowookere-Abidemi/Remote-Work-Impact-on-Employees-Mental-Health/blob/main/MENTAL-HEALTH-DASHOARD.png)
+# Remote Work Impact on Employees' Mental Health
 
-## 1. Data Sourcing and Preparation: 
+This analysis delves into the impact of remote work on employees’ mental health, leveraging historical survey data from Kaggle. The study provides insights into employee demographics, industries, work modes, work hours, and mental health conditions, offering actionable recommendations for organizations.
 
-- The analysis began by sourcing a dataset from Kaggle. To ensure the data's accuracy, I undertook a thorough cleaning process.
-- This involved removing blanks and duplicates, data profiling and standardizing the data for consistency. Ensuring that the data was well prepared allowed for a robust and accurate analysis.
+![Mental Health Dashboard](https://github.com/Olowookere-Abidemi/Remote-Work-Impact-on-Employees-Mental-Health/blob/main/MENTAL-HEALTH-DASHOARD.png)
 
-## 2. Data Analysis: 
+---
 
-- Utilizing pivot tables in Microsoft Excel, I analysed various dimensions such as employees' gender, industry, work modes, and hours worked per week.
-- The analysis also considered respondents' access to mental health resources and specific mental health conditions they experienced (such as burnout, depression, or anxiety).
-- This structured approach allowed me to draw key conclusions about how remote work impacts different aspects of employee wellbeing.
+## Data Sourcing and Preparation
 
-## 3. Visualization: 
+1. **Data Collection**:  
+   The dataset was sourced from Kaggle, focusing on employee mental health and remote work impact.
 
-To better communicate the findings, I built an interactive dashboard with dynamic charts that visually represented the relationships between variables such as gender, region, work hours, and access to mental health resources. These visualizations made it easier to interpret the complex data and extract actionable insights.
+2. **Data Cleaning**:  
+   - Removed blanks and duplicates.  
+   - Conducted data profiling to standardize and prepare the data for analysis.  
+   - Ensured accuracy and consistency for reliable insights.
 
-## 4. Reporting & Insights: 
+---
 
-A detailed report was created, summarizing the findings and offering recommendations. The insights derived from the data are aimed at helping organizations improve their support systems and policies for remote employees, particularly concerning mental health resources and work life balance.
+## Data Analysis
 
-## Key Insights and Recommendations:
+- Used **pivot tables** in Microsoft Excel to analyze variables such as:  
+  - Gender, industry, and regions of employees.  
+  - Work modes and weekly work hours.  
+  - Access to mental health resources.  
+  - Prevalence of mental health conditions (e.g., burnout, depression, anxiety).
 
-1. Mental Health of Respondents: 
+- The structured analysis enabled the identification of key trends and their implications on employee wellbeing.
 
-   - Burnout and anxiety were the most reported mental health conditions, with 25.60% of employees experiencing burnout and 25.56% suffering from anxiety. 
+---
 
-   ➡️ Recommendation: Organizations should implement regular mental health check-ins and provide burnout prevention programs to mitigate these issues.
+## Data Visualization
 
-2. Work Hours and Impact on Mental Health: 
+- Built an **interactive dashboard** featuring dynamic charts to visually represent:  
+  - Gender and regional distribution.  
+  - Work hours and their correlation with mental health conditions.  
+  - Access to mental health resources by demographics.  
 
-    - Employees working 55–60 hours per week reported the highest instances of mental health conditions (13.98%). 
+These visualizations enhanced understanding and highlighted actionable insights.
 
-   ➡️ Recommendation: Companies should monitor work hours and encourage healthier work life balance by enforcing strict working hour limits or offering flexible schedules.
+---
 
-3. Work Mode and Mental Health: 
+## Reporting and Insights
 
-    - The data revealed that 34.28% of respondents work remotely, and this group reported higher levels of burnout compared to their onsite counterparts. 
+### 1. Mental Health of Respondents
+- **Key Finding**:  
+  - Burnout (25.60%) and anxiety (25.56%) were the most reported mental health conditions.
+  
+- **Recommendation**:  
+  - Introduce regular mental health check-ins and burnout prevention programs.
 
-   ➡️ Recommendation: Organizations with a remote workforce should consider offering remote specific mental health resources, such as virtual counselling or online support groups.
+---
 
-4. Access to Mental Health Resources: 
+### 2. Work Hours and Mental Health
+- **Key Finding**:  
+  - Employees working **55–60 hours per week** reported the highest mental health issues (13.98%).
 
-     - Interestingly, only 51.06% of respondents reported having access to mental health resources in their workplaces. 
+- **Recommendation**:  
+  - Enforce healthier work-life balance through:  
+    - Monitoring work hours.  
+    - Encouraging flexible schedules.
 
-   ➡️ Recommendation: Employers should prioritize making mental health support accessible to all employees, especially remote workers, to reduce the mental strain associated with isolation.
+---
 
-5. Dominant Demographics: 
+### 3. Work Mode and Mental Health
+- **Key Finding**:  
+  - 34.28% of respondents worked remotely, with higher burnout levels compared to onsite employees.
 
-   - Female employees (25.48%) and respondents from the Oceania region (34%) made up the largest groups in the survey. Additionally, 28.16% of respondents were aged 50-60. 
+- **Recommendation**:  
+  - Provide remote-specific mental health support, such as:  
+    - Virtual counseling services.  
+    - Online mental health resources.
 
-   ➡️ Recommendation: Tailoring mental health resources to the needs of specific demographic groups, such as older employees or females, may improve engagement and effectiveness.
+---
 
-## Conclusion: 
+### 4. Access to Mental Health Resources
+- **Key Finding**:  
+  - Only **51.06%** of respondents had access to workplace mental health resources.
 
-This analysis highlights the significant impact of remote work on employees’ mental health, providing valuable insights into how organizations can better support their workforce. By focusing on work life balance, offering mental health resources, and understanding the needs of their diverse employee base, companies can create healthier, more productive work environments.
+- **Recommendation**:  
+  - Employers should prioritize accessible mental health support for all employees, especially remote workers.
 
-This project demonstrates my ability to use real-world data to drive actionable recommendations, presenting findings in a clear and impactful manner.
+---
+
+### 5. Dominant Demographics
+- **Key Finding**:  
+  - Majority demographics:  
+    - Female employees (25.48%).  
+    - Respondents aged **50–60 years** (28.16%).  
+    - Employees from Oceania (34%).
+
+- **Recommendation**:  
+  - Tailor mental health resources to meet the specific needs of these groups for better engagement.
+
+---
+
+## Conclusion
+
+The analysis highlights the significant impact of remote work on employees’ mental health, uncovering critical trends such as:  
+- Burnout prevalence among remote workers.  
+- Insufficient access to workplace mental health resources.  
+- The need for tailored interventions for different demographic groups.
+
+By addressing these challenges, organizations can foster a healthier and more productive workforce. This project demonstrates the power of data-driven decision-making in creating impactful workplace policies.
